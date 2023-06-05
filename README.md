@@ -1,16 +1,29 @@
-### Hi there 👋
+## Hi there 👋 I'm Matsuura!
 
-<!--
-**investment4057/investment4057** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=flutter,firebase,dart,ruby,rails,docker,heroku,aws,wordpress,html,css,scss,pug,js,gulp&perline=8)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Design Tools
+
+[![My Skills](https://skillicons.dev/icons?i=ps,ai,xd&perline=8)](https://skillicons.dev)
+
+### Connect with me:
+
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/dev_mtw)
+
+### 🏆 Trophy :
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=investment4057&theme=cobalt&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 📊 GitHub Status :
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=investment4057&layout=compact&show_icons=true&theme=cobalt" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=investment4057&theme=cobalt&show_icons=ture" />
+</p>
+
+### GitHub Streak:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=investment4057&theme=vue-dark)](https://git.io/streak-stats)
