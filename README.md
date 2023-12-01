@@ -2,7 +2,7 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,firebase,dart,ruby,rails,docker,heroku,aws,wordpress,html,css,scss,pug,js,gulp&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,firebase,dart,react,nextjs,ts,express,ruby,rails,docker,heroku,aws,wordpress,html,css,scss,bootstrap,pug,js,gulp&perline=8)](https://skillicons.dev)
 
 ### Design Tools
 
